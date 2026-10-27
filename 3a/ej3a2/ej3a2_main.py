@@ -18,7 +18,7 @@ El paquete 'ej3a2_math_package' se debe importar desde el script 'ej3a2_main.py'
 
 Ejemplo:
     Entrada:
-    arithmetic.power(3, 2)
+    arithmetic.power(5, 3)
     arithmetic.square_root(16)
     geometry.square_area(5)
     geometry.rectangle_area(3, 5)
@@ -66,7 +66,7 @@ Exemple:
      25
      15
      7.5
-     31.4159265359
+     78.53981633975
 """
 # archivo ej3a2_main.py
 
