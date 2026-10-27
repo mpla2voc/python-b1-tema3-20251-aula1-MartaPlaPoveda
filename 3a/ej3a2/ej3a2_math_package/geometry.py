@@ -1,4 +1,5 @@
 # geometry.py
+import math
 
 
 def square_area(side_length: float) -> float:
@@ -52,4 +53,4 @@ def circle_area(radius: float) -> float:
     Returns:
     - float: the area of the circle
     """
-    return 3.14159265359 * (radius**2)
+    return math.pi * radius**2
